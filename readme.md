@@ -17,6 +17,10 @@ Gotowi **service workerzy** do pracy!
 
 Aby wygenerować plik **manifestu** oraz zbiór ikon, możemy wykorzystać [tę stronę](https://app-manifest.firebaseapp.com).
 
+## JAK WYPRÓBOWAĆ
+
+Wejdź na [tę stronę](https://zaprogramowanifo.github.io/pwa-starter-kit/).
+
 ## JAK SKORZYSTAĆ
 
 Wystarczy stworzyć lokalną kopię tego repozytorium, a następnie uzupełnić o swoje treści.
