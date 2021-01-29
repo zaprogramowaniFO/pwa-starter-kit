@@ -15,7 +15,7 @@ html {
 
 body {
     background: rgb(249, 142, 29);
-    background: linear-gradient(344deg, rgba(34, 179, 195, 1) 0%, rgb(249, 144, 31) 100%);
+    background: linear-gradient(344deg, rgba(34, 179, 195, 1) 0%, rgba(249, 144, 31, 1) 100%);
     
     display: flex;
     flex-flow: column wrap;
